@@ -6,3 +6,7 @@
 
 ## Round 6 (realism) — Poly Haven, CC0 (https://polyhaven.com)
 Textures: leafy_grass, dirt, metal_plate, denim_fabric_03, brown_leather, wood_planks, bark_brown_02, rock_face. HDRI: belfast_open_field (1k).
+
+## Round 7 (realism, gritty pass)
+- Soldier body: **Quaternius — Universal Base Characters (Standard, free), "Superhero_Male_FullBody"** + skin base-color/roughness textures. CC0 1.0. https://quaternius.itch.io/universal-base-characters (obtained via itch.io free/$0 download, no account). Animations from Quaternius UAL1 (CC0) retargeted by bone name (same rig).
+- Armour/shield/helmet meshes, wear/grime/mud/blood decal textures: procedural, made for this project.
