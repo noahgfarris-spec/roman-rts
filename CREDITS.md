@@ -13,3 +13,9 @@ Textures: leafy_grass, dirt, metal_plate, denim_fabric_03, brown_leather, wood_p
 
 ## Round 8
 - Sagittarii kit (conical helmet, composite bow, quiver) and all tactics/perf code: made for this project. No new third-party assets.
+
+## v10
+- Combat animations: **Quaternius — Universal Animation Library 2 (Standard)**, CC0 1.0 (assets/src/LICENSE_UAL2.txt; https://quaternius.itch.io/universal-animation-library-2). Clips Sword_Block, Sword_Regular_A/B/C, Shield_OneShot, Shield_Dash, Hit_Knockback, Idle_Shield_Break, OverhandThrow, Idle_Shield_Loop baked onto the same 65-bone rig (bake_ual2.mjs appends them to the VAT).
+- Signifer vexillum cloth: **Quaternius — Fantasy Props MegaKit (Standard)**, Banner_1_Cloth, CC0 1.0 (assets/props/LICENSE_FantasyProps.txt; https://quaternius.itch.io/fantasy-props-megakit). Geometry only (138 tris), team-coloured.
+- Germanic warriors (hair, beards, mantles, round shields, spears/axes/swords) and village: procedural, made for this project.
+- Combat model tuned after a published description of Ancestors Legacy (Destructive Creations manual) — mechanics only, no assets.
